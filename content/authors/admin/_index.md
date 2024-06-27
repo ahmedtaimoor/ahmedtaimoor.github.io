@@ -73,8 +73,8 @@ education:
       - CSC 591 - Efficient Tensor Computation
   - area: BSc Computer Science
     institution: Lahore University of Management Sciences
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-08-21
+    date_end: 2023-05-31
     summary: |
       GPA: 3.3/4.0
       
@@ -82,6 +82,9 @@ education:
       - CS 436 - Computer Vision
       - CS 452 - Computer Graphics
       - CS 535 - Machine Learning
+
+      Senior Project: Diamer-Bhasha Virtual Rock Museum. An interactive, virtual museum showcasing neolithic rocks from the Diamer-Bhasha dam site in northern Pakistan, as part of the digital preservation of the area.
+      
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin
@@ -142,13 +145,13 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    # percent: 100
   - name: Urdu
-    percent: 75
+    # percent: 75
   - name: Punjabi
-    percent: 25
-  - name: Arabic
-    percent: 25
+    # percent: 25
+  # - name: Arabic
+    # percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -184,4 +187,4 @@ languages:
 
 ## About Me
 
-I am Syed Ahmed Taimoor, pursuing an MS in Computer Science at North Carolina State University. My supervisor is Dr. Jiajia Li. I am to bridge the gap between Machine Learning and High Performance Computing, aiming to develop scalable and more efficient (both in time and space complexity) algorithms for deep learning. Our current project aims to develop an efficient and competitive hypergraph neural network for data reprensented using tensors.
+I am Syed Ahmed Taimoor, pursuing an MS in Computer Science at North Carolina State University. My supervisor is Dr. Jiajia Li. I obtained my BS in Computer Science from I aim to bridge the gap between Machine Learning and High Performance Computing, aiming to develop scalable and more efficient (both in time and space complexity) algorithms for deep learning. Our current project aims to develop an efficient and competitive hypergraph neural network for data reprensented using tensors.
