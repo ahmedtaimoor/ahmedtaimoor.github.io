@@ -187,4 +187,4 @@ languages:
 
 ## About Me
 
-I am Syed Ahmed Taimoor, pursuing an MS in Computer Science at North Carolina State University. My supervisor is Dr. Jiajia Li. I obtained my BS in Computer Science from I aim to bridge the gap between Machine Learning and High Performance Computing, aiming to develop scalable and more efficient (both in time and space complexity) algorithms for deep learning. Our current project aims to develop an efficient and competitive hypergraph neural network for data reprensented using tensors.
+I am Syed Ahmed Taimoor, pursuing an MS in Computer Science at North Carolina State University supervised by Dr. Jiajia Li. I obtained my BS in Computer Science from Lahore University of Management Sciences. I aim to bridge the gap between Machine Learning and High Performance Computing, aiming to develop scalable and more efficient (both in time and space complexity) algorithms for deep learning. Our current project aims to develop an efficient and competitive hypergraph neural network for data reprensented using tensors.
